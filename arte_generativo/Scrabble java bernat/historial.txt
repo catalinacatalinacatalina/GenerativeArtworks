@@ -1,4 +1,0 @@
-Data/Hora/Puntuacio/Nom d'usuari.
-26/01/2022 13:03 La puntuacio ha estat negativa. Bernat
-26/01/2022 13:05 13 Bernat
-26/01/2022 13:53 1 bernat
