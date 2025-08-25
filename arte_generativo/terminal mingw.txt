@@ -1,0 +1,3 @@
+cd C:\Users\Catalina\Documents\Programación\Progra\arte_generativo\
+cd carpeta
+canvas-sketch sketch.js

@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "canvas-sketch": "^0.7.7",
+    "canvas-sketch-util": "^1.10.0",
     "js-init": "^0.1.0"
   }
 }
