@@ -35,7 +35,7 @@ píxel se iria creando esta mezcla entre raster y terreno.
 
 int cols, rows;
 int scl = 20;
-int w = 2000;
+int w = 3000;
 int h = 1600;
 
 float rot = 0;
@@ -47,7 +47,7 @@ float flying = 0;
 float[][] terrain;
 
 void setup() {
-  size(600, 600, P3D);
+  size(800, 800, P3D);
   fullScreen(P3D);
   cols = w / scl;
   rows = h/ scl;
