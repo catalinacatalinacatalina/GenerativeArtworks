@@ -1,4 +1,4 @@
-# 🎨 Generative ArtWorks
+# 🎨 Generative Artworks
 
 This repository collects my experiments and projects in **generative art**, created as part of my self-taught journey in creative coding.  
 
@@ -21,3 +21,4 @@ Generative art combines code, mathematics, and creativity to produce dynamic and
 ```bash
 cd [absolute path]
 canvas-sketch sketch.js
+
